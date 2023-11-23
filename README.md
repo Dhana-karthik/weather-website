@@ -7,6 +7,4 @@
 <br><hr>
 #images
   <br><hr>
-<p>
-  <img src="F:\weatherpic1.png" height="220" width="240"/>
-</p>
+![WEATHERPIC2](https://github.com/Dhana-karthik/weather-website/assets/147986718/4fda32e0-4b51-4a70-acf2-f79d226d8dad)
