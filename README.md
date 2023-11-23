@@ -5,4 +5,4 @@
 <br><hr>
 <h2>Light mode</h2>
 <br><hr>
-![WEATHERWEBPIC1](https://github.com/Dhana-karthik/weather-website/assets/147986718/d7f54396-d9e6-456a-9459-cf135410802b)
+![weatherpic1](https://github.com/Dhana-karthik/weather-website/assets/147986718/4274f324-27d8-4ab5-afbf-d3980309b7e3)
