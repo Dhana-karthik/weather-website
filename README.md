@@ -8,5 +8,5 @@
 #images
   <br><hr>
 <p>
-  <img src="![weatherpic1](https://github.com/Dhana-karthik/weather-website/assets/147986718/ac4c8488-9cd2-4e2f-9fa0-d9b21ff79359)"/>
+  <img src="F:\weatherpic1.png" height="220" width="240"/>
 </p>
