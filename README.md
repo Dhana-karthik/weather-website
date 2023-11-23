@@ -9,3 +9,4 @@
 ![weatherpic1](https://github.com/Dhana-karthik/weather-website/assets/147986718/2ab97569-2329-4ddf-b551-3e81ac775ccd.png)
 <br>
 ![WEATHERPIC2](https://github.com/Dhana-karthik/weather-website/assets/147986718/fe70e8b0-08fa-46e5-8628-a823c1c2ff5e.png)
+![googlemaps ICON](https://github.com/Dhana-karthik/weather-website/assets/147986718/d8af91e8-1c12-463b-9067-f8b2482164a8)
