@@ -6,4 +6,4 @@
 <h2>Light mode</h2>
 <br><hr>
 ![weatherpic1](https://github.com/Dhana-karthik/weather-website/assets/147986718/4274f324-27d8-4ab5-afbf-d3980309b7e3)
-<a href="https://github.com/Dhana-karthik/weather-website/assets/147986718/f9a565f3-066a-424b-869b-5ea05a5088d3">
+<a href="https://github.com/Dhana-karthik/weather-website/assets/147986718/f9a565f3-066a-424b-869b-5ea05a5088d3">dark mode</a>
