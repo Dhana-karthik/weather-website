@@ -7,4 +7,4 @@
 <br><hr>
 #images
   <br><hr>
-![WEATHERPIC2](https://github.com/Dhana-karthik/weather-website/assets/147986718/cca7c043-edc7-4abe-93cb-12795b4b8e4b)
+![WEATHERPIC2.PNG](https://github.com/Dhana-karthik/weather-website/assets/147986718/cca7c043-edc7-4abe-93cb-12795b4b8e4b)
