@@ -6,7 +6,7 @@
 <h3>
 <br>
 <a href="https://github.com/Dhana-karthik/weather-website/assets/147986718/4274f324-27d8-4ab5-afbf-d3980309b7e3">light mode</a>
-  https://github.com/Dhana-karthik/weather-website/assets/147986718/4274f324-27d8-4ab5-afbf-d3980309b7e3
+
   <br>
   </h3>
 <h3>
