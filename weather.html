@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html >
+<head>
+
+    <img href="weather.png">
+    <link rel="stylesheet" href="weather.css">
+	<title>Weather Forecasting Website</title>
+</head>
+<body >
+	<h1>Weather report</h1>
+	<form>
+		<label for="city" style="color:black";>Enter city name:</label>
+		<input type="text" id="city" name="city">
+		<input type="button" value="Get Weather" onclick="getWeather()">
+		<span id="error"></span>
+	</form>
+	<br>
+	<img id="climate-image" > 
+	<p><span id="displayedCity"></span></p>
+	<p><span id="temp"></span></p>
+	<p><span id="desc"></span></p>
+	<button id="nightModeBtn" class="toggle-button">🌙</button>
+	<p id="currentLocation" style="margin-top: 30px;"></p>
+	<p id="currentTemperature"></p>
+
+	<a  href="https://github.com/Dhana-karthik/weather-website" class="buttong" target="_blank">Source Code </a>
+	<script src="weather.js"></script>
+</body>
+</html>
