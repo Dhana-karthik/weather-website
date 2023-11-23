@@ -1,7 +1,7 @@
 # weather-website
 <h2>Light mode</h2>
 <br><hr>
-![WEATHERWEBPIC1](https://github.com/Dhana-karthik/weather-website/assets/147986718/c95873c8-4749-4348-8400-5f38fef102fa)
+<a href="https://github.com/Dhana-karthik/weather-website/assets/147986718/c95873c8-4749-4348-8400-5f38fef102fa">
 
 <br><hr>
 ## download link:
