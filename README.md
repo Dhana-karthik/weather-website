@@ -5,7 +5,8 @@
 <br><hr>
 
 # output
-
+<h3>Light and Dark Mode:</h3>
+<hr>
 ![weatherpic1](https://github.com/Dhana-karthik/weather-website/assets/147986718/02c744f5-4643-46f6-a261-1cc75132ba12)
 
 ![WEATHERPIC2](https://github.com/Dhana-karthik/weather-website/assets/147986718/04e58ec4-4fe7-4bdb-bae6-d010044ec810)
